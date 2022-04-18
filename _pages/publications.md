@@ -31,7 +31,7 @@ nav: true
 
 [^_^]:</div>
 
-#### Journal papers
+[^_^]:#### Journal papers
 
 [^_^]:<div class="publications">
 
@@ -51,7 +51,7 @@ nav: true
 [^_^]:#### Workshop papers
 [^_^]:1. 
 
-[^_^]:#### Journal articles
+#### Journal papers
 1. T. Li, Y. Jiang, C. Lin, M. Obaidat, Y. Shen and J. Ma, "DeepAG: Attack Graph Construction and Threats Prediction with Bi-directional Deep Learning," in IEEE Transactions on Dependable and Secure Computing, doi: 10.1109/TDSC.2022.3143551.
 
 [^_^]:#### Deep learning projects
