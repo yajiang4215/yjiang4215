@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: me2.JPG
+  image: me.png
   address: 
 
 [^_^]:news: true  # includes a list of news items
