@@ -33,14 +33,14 @@ nav: true
 
 #### Journal papers
 
-<div class="publications">
+[^_^]:<div class="publications">
 
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f journal -q @*[year={{y}}]* %}
-  {% endfor %}
+[^_^]:{% for y in page.years %}
+  [^_^]:<h2 class="year">{{y}}</h2>
+  [^_^]:{% bibliography -f journal -q @*[year={{y}}]* %}
+  [^_^]:{% endfor %}
 
-</div>
+[^_^]:</div>
 
 [^_^]:[^_^]:<!-- #### Preprints and submissions -->
 [^_^]:<!-- 1. Pooladian, A-A., and Niles-Weed, J. "Entropic estimation of optimal transport maps" (2021) [<a href="https://arxiv.org/pdf/2109.12004.pdf">PDF</a>]
