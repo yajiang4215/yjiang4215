@@ -17,7 +17,7 @@ social: false  # includes social icons at the bottom of the page
 Ph.D. Student, George Mason Universiity<br>
 Virginia, USA<br>
 yjiang25 [at] gmu.edu<br>
-[//]:[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [Github](https://github.com/jindongwang) | [DBLP](https://dblp.org/pid/19/2969-1.html) || [Zhihu](https://www.zhihu.com/people/jindongwang) | [Weibo](http://www.weibo.com/wjdbr) | [Wechat](http://jd92.wang/assets/image/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_jindongwang_cn-eng.pdf)
+[Github](https://github.com/yajiang4215) || [Resume](http://jd92.wang/assets/files/../../../../../assets/files/cv_ya.pdf)
 
 I am Ya Jiang, the first-year Ph.D student supervised by Professor Kai Zeng at Department of Electrical and Computer Engineering in George Mason University. I received B.S. degree in Computer Science from Xidian University, China, in 2021.
 
