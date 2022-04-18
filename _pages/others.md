@@ -5,7 +5,7 @@ permalink: /others/
 nav: true
 ---
 
-#### Academic service
+[^_^]:#### Academic service
 
 - Conference organizer:
   - IJCAI 2019 Publicity co-chair
