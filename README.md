@@ -1,6 +1,6 @@
 Ya Jiang's personal website. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-Please use the link <a href="https://yajiang4215.github.io" target="_blank">Jekyll</a> 
+Please use this link for a <a href="https://yajiang4215.github.io" target="_blank">new personal homepage</a>.
 
 [^_^]:Tips: I moved all the js and css files from cloud to this local folder, thus makes it faster to access the website. Therefore, you can directly use my code for your website.
 
